@@ -1,3 +1,11 @@
+<p align=”center”>
+
+
+<img width="200" height="200" src="https://user-images.githubusercontent.com/110874108/213251279-decf3edd-9cf2-4eb9-b83c-69f5a2aa434c.png" alt="my banner”>
+
+
+</p>
+
 
 ### Hi there 👋, I'm Jon
 
