@@ -1,27 +1,16 @@
 ### Hi there 👋, I'm Jon
 
-I am a Data Scientist and a Physical Therapist with 15 years experience in a variety of settings. 
-I'm a curious and creative person who enjoys problem-solving, as well as teaching and helping others to achieve their best.
+I'm a Healthcare Analytics professional with a doctorate (DPT), 15+ years experience in healthcare and an additional 3+ years experience in healthcare data analytics working with medical & pharmacy claims, registry data, EMR/EHR data, and creating AI-enabled solutions on a daily basis.  I have deep clinical knowledge within the healthcare system in a variety of settings, excellent attention to detail, and experience in data modeling, statistics & visualization.  Coworkers and stakeholders praise my analytical capabilities and technical proficiency in solving complex analytical problems, along with strong written & verbal communication skills to convey the end results.  
 
-So far, I have utilized Python and Jupyter Notebooks, with a variety of libraries including Pandas, NumPy, Scikit-learn, and Surprise, as well as using GitHub, Object-Oriented Programming, and SQL.
+• Extensive experience with data analysis via SQL, Python (pandas) & R Studio (dplyr), database ETL, quality assurance, governance & compliance
 
-I am:
-- adept at exploratory data analysis, finding patterns & trends
-- fluent in Pandas dataframe tasks and data wrangling
-- able to build data visualizations in Matplotlib and Seaborn
-- well-versed in classification models, including creating pipelines, performing GridSearch, and evaluating with appropriate metrics
-- able to complete model-based collaborative-filtering and content-based filtering to create a recommendation system
-- and I completed a fall detection system for older adults, using XGBoost
+• Early adopter of AI tools for analysis, coding, synthetic data generation, logic documentation, machine learning, NLP & language translation
 
-🔭 I’m currently learning / working on ...
-- additional SQL training
-- Tableau Public dashboards
-- finding a job 🙂
+• Most recently working on multiple patient-level healthcare data projects collaborating with data engineering, biostatisticians, epidemiologists and data scientists.
 
-📫 How to reach me: ...
 
+To contact:
 - __[LinkedIn](https://www.linkedin.com/in/jonmccaffrey/)__
-- __[Medium](https://medium.com/@jonmccaffrey524)__ 
 - Email: jonmccaffrey524@gmail.com
 
 Thank you!
