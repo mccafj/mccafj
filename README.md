@@ -1,6 +1,3 @@
-![banner](https://user-images.githubusercontent.com/110874108/213251279-decf3edd-9cf2-4eb9-b83c-69f5a2aa434c.png)
-
-
 ### Hi there 👋, I'm Jon
 
 I am a Data Scientist and a Physical Therapist with 15 years experience in a variety of settings. 
